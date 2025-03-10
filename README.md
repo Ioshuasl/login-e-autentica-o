@@ -15,7 +15,7 @@ Express-session:<br>
 npm i express-session<br>
 Sequelize:<br>
 npm i sequelize<br>
-Postgres<br>
+Biblioteca Postgres:<br>
 npm i pg<br>
-Conteiner docker<br>
-docker run --name testeusers -e POSTGRES_PASSWORD=1234 -d -p 5432:5432 postgres
+Comando para criar o conteiner docker:<br>
+docker run --name {{NOME}} -e POSTGRES_PASSWORD={{SENHA}} -d -p {{PORTA}}:{{PORTA}} postgres
