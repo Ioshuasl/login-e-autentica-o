@@ -7,7 +7,7 @@ Para fazer essa aplicação foi usado:
 - Sequelize para autenticação e conexão com banco de dados
 
   Bibliotecas e Dependencias Utilizadas ( usar comandos no terminal )
-  Express:
+  Express:<br>
   npm i express
   Express-session:
   npm i express-session
