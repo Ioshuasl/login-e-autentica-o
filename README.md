@@ -8,7 +8,7 @@ Para fazer essa aplicação foi usado:
 - Docker com banco de dados Postgres
 - Sequelize para autenticação e conexão com banco de dados
 
-<h3>Bibliotecas e Dependencias Utilizadas ( usar comandos no terminal )</h3><br>
+<h3>Bibliotecas e Dependencias Utilizadas ( usar comandos no terminal )</h3>
 Express:<br>
 npm i express<br>
 Express-session:<br>
